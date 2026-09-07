@@ -8,23 +8,23 @@
     "allowInbox": false,
     "autoClean": true,
     "commandDisabled": [
-        "sim.js"
+        ""
     ],
     "eventDisabled": [
-        "join.js"
+        ""
     ],
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰",
-    "PREFIX": "/",
+    "BOTNAME": "‌ℒ𝓸𝓿𝒆 𝔂𝓸𝓾 ᥫ᭡",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "61582311465479",
-        "61584194023750",
-        "61582708907708"
+        "61593629243000",
+        "",
+        ""
     ],
     "NDH": [
-        "61582708907708"
+        "61593629243000"
     ],
     "DATABASE": {
         "sqlite": {
